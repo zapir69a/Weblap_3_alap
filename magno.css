@@ -44,5 +44,10 @@ li {
 }
 .fk {
     font-weight: bold;
-    
+}
+
+.footer {
+    border-top: black 2px dotted;
+    text-align: center;
+    padding: 10px;
 }
